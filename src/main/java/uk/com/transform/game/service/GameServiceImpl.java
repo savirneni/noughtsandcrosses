@@ -6,7 +6,7 @@ package uk.com.transform.game.service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import uk.com.transform.game.businessobject.GameBO;
+import uk.com.transform.game.business.GameBO;
 import uk.com.transform.game.dto.GameResponse;
 import uk.com.transform.game.exception.GameFinishedException;
 import uk.com.transform.game.exception.GameInvalidMarkedSpaceException;
